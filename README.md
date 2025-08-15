@@ -4,7 +4,7 @@ My first fully fledged game project! An arcade inspired, 2D twin stick shooter t
 - Fast paced 2D action
 - Custom upgrades for every spell, wand, and character
 - Over xxx levels, xxx enemies, and xx spells
-- An interdimensional dolphin with cool sunglasses that sells you things. His name is Fin Dolle and he said you owe him money.
+- An interdimensional dolphin with cool sunglasses that sells you things. His name is Fin Dolle, and he told me you owe him money.
 
 
 ## Technical details
